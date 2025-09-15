@@ -39,8 +39,8 @@ I'm passionate about software engineering and building impactful products, I hav
 
 ## 📫 How to reach me
 - Email: oluwatobiojo2911@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/oluwatobi-ojo-samuel/)
-- Twitter: [@yourhandle](https://twitter.com/ohteesss)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/oluwatobi-ojo-samuel/)
+- Twitter: [@ohteess](https://twitter.com/ohteesss)
 
 ---
 
