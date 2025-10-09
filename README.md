@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm ohteesss!
+# Hi there 👋, I'm Samuel!
 
 Welcome to my GitHub profile!  
 I'm passionate about software engineering and building impactful products, I have over 3 years of experience building web applications.
